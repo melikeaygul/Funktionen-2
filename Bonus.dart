@@ -17,7 +17,6 @@ void evenNumber(int num) {
 }
 
 //Aufgabe3
-void 
 
 void main() {
   //Aufagbe1
